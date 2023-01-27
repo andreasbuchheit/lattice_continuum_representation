@@ -1,6 +1,8 @@
 # Exact continuum representation of long-range interacting systems and emerging exotic phases in unconventional superconductors
-An implementation of the exact continuum representation for long-range interacting lattices is provided for three benchmark examples and for long-range interacting unconventional superconductors. 
+An implementation of the exact continuum representation for long-range interacting lattices is provided for three benchmark examples and for long-range interacting unconventional superconductors.
 
 In the first example, we compute interaction energies in Skyrmions in a two-dimensional Heisenberg spin lattice with long-range dipolar interactions. The second example illustrates that our representation readily extends to nonlinear systems. We compute the full nonlinear Coulomb forces in an ion chain with topological defects. In example 3, we compute dipole forces in a spin wave in a 3D pyrochlore lattice. We demonstrate that our method allows for an efficient and precise computation of the system properties, where the standard integral approximation is either imprecise or, in the case of example 3, yields qualitatively incorrect results.
 
 As our final application, we analyze the impact of long-range electron-electron interactions on the properties of unconventional superconductors. We show that the interactions lead to the emergence of new exotic phases with s, d, d+s, and d+p symmetries, where the d+p phase is topologically nontrivial. In addition, we demonstrate that our method applies in the non-equilibrium by computing Higgs oscillations after a sudden quench. We show that the long-range interactions can fine-tune the stability of the oscillation in the s-wave phase, ranging from an exponential decay to complete stability.
+
+For more information, see our preprint https://arxiv.org/abs/2201.11101.
